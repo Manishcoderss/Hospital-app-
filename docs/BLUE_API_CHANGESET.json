@@ -1,0 +1,262 @@
+[
+  {
+    "path": "lib/account_settings_panels.dart",
+    "before": "5a4fcddbe156b3b6684b9387b66022b0be1d464ee6350813c776e07cb73acd60",
+    "after": "b9a532c14e0ac5ec3b3e5f527f6ae25f8a103bd36bf6aaabbccf47c4b112f04b"
+  },
+  {
+    "path": "lib/animated_doctor_icon.dart",
+    "before": "f7bcaebf4791972b66445a512d00e9d3c5e6c6294480197b6bf79fe664052b2a",
+    "after": "57d9ef7a5533788dc36ecd373604f32ec99c91759285a57541b13efc3bc6f7c9"
+  },
+  {
+    "path": "lib/animated_waiting_icon.dart",
+    "before": "0220e445313ee85a98166312c59a9913c443bde82150ebf98d761d3b7aade719",
+    "after": "62897f21bdde587337800979964ad3ec5aa4ffa35fd239e46d1aa975cb357c14"
+  },
+  {
+    "path": "lib/api_catalog.dart",
+    "before": null,
+    "after": "29f5cc02f545afeab310ff580206004df32d4e80994766914b916ea68fd06193"
+  },
+  {
+    "path": "lib/api_config.dart",
+    "before": null,
+    "after": "f15d7c9b0e034739fdc7d27797a8aef62278943e21805a915b3453761fe5d044"
+  },
+  {
+    "path": "lib/appointments_schedule_view.dart",
+    "before": "7c66414f6eae67e0a775571badbdf43a21f0dfdf8da9de0989b236f75d2542c4",
+    "after": "e2e67c996d4c8ec300285a4f9a936ad4ffac7b1339f6abca3aaef537a5231ebd"
+  },
+  {
+    "path": "lib/appointment_booking_page.dart",
+    "before": "11de8382937dd6b375214b02ba624c0b523cf74883052c856d215e87286e2433",
+    "after": "226b1a402cb0fc7c545183d2dc91921fb818b07bc69a25c3ea897a4f4964144b"
+  },
+  {
+    "path": "lib/appointment_detail_page.dart",
+    "before": "7518abf5d8647907c06c3bca8565a19b385bb4daf51079ed78eba3d407d19be6",
+    "after": "63d75ef1a017f42824e533e714a5c9c27325021f5d4422a0e14d6694152b0753"
+  },
+  {
+    "path": "lib/appointment_workflow.dart",
+    "before": "d1233dcbe9eb674128d943d4e8cf68116524ed26f7dbb318532db52afa8ef866",
+    "after": "59642113c68e4e415ce1d70ff520c5e6df4c4377915fa5be167ff522be4b0223"
+  },
+  {
+    "path": "lib/auth_service.dart",
+    "before": "db4df3527aaecda6135b255e5d7740019c634a120d2c9fc5f727d892164f0470",
+    "after": "31ac0b54ee8a7b108cf90b97f5b9ab7b824846adaeaf73a7383affdf4fa155b1"
+  },
+  {
+    "path": "lib/clinical_directory_page.dart",
+    "before": "35471d9a41fe548f9500e701fb723e8cb6a577534df76fa584768ff2a05185c0",
+    "after": "86f36f87743e6ab06ff429bad7a638110d0314ab1460ba4715a1cab03df9f58d"
+  },
+  {
+    "path": "lib/clinical_home_page.dart",
+    "before": "39241ec5e9bd88d7a0e206f00b99124fd00aba32dbc6e7d78f5eb29eb7fcf0b2",
+    "after": "fa24526ea3568cce7eed44bd59151cbf6099a622e26ddcbbe5fac9d2f0b75cd9"
+  },
+  {
+    "path": "lib/doctor_dashboard_service.dart",
+    "before": "c2069ea9011808750f3ed719792a5467723412c55e5f6b52d9570e47dabfc080",
+    "after": "e96ff5b1a038c0fe89172953c0c379a39b02ab2ac3fe1d2f807c34af10db03d0"
+  },
+  {
+    "path": "lib/doctor_dashboard_view.dart",
+    "before": "e8a077af6a2bd18d14e5dc1d428281250f31dc2a9cff2307f2e0f09c74514755",
+    "after": "a0a8ca31894d774893249179c0253f656e210e6dbe6b7fddb4f7e8498e937804"
+  },
+  {
+    "path": "lib/doctor_home.dart",
+    "before": "353004c739f3f4932f2231181946f89027f36d088fc8cdcb9d0cb228d032fa51",
+    "after": "f7d9062f3167624bd4474524bf38de46280f223ccac15ec50cb092b2f28baf68"
+  },
+  {
+    "path": "lib/doctor_opd_view.dart",
+    "before": "41a45b2b6b0206cc1ca02c7ba16ba02ee8650209b010f07af4d6e740e30631c2",
+    "after": "70250ab6cdef0a3aa3af5349466fc9733a43a3ea37ef51066e839d98e0e08212"
+  },
+  {
+    "path": "lib/home_dashboard_page.dart",
+    "before": "c72bd67e26c662bc5947b6c027c3432a8b85f0cece1c551250841b61d10a1d09",
+    "after": "931ea0aa39139bf3ac1250116694a70cec7dd5a378eafbb545c5db73b0726e2a"
+  },
+  {
+    "path": "lib/hospital_api.dart",
+    "before": null,
+    "after": "9525e64c95f75e6105b53dfac25fed810cebe84f95ea8f288d64dc5a9d48459f"
+  },
+  {
+    "path": "lib/hospital_modules.dart",
+    "before": null,
+    "after": "239c32364dd695d3dc53592f9fa5a93c2d43a3257fbcf921e552ba041dc4641d"
+  },
+  {
+    "path": "lib/hospital_theme.dart",
+    "before": null,
+    "after": "ff03e94fe57eb64b2971b447faeea0baf3493b6dd410f26f3902aff73eb7c8b1"
+  },
+  {
+    "path": "lib/hospital_workspace.dart",
+    "before": null,
+    "after": "ceb5450d65564e858949e1824ed2edc3a929917544a492e78d34619dc45d5425"
+  },
+  {
+    "path": "lib/laboratory_page.dart",
+    "before": "b2c5933e7b38b6c278411554819e4b00fd62a97f59bb9b1c5102bf8da26e335a",
+    "after": "9735a5b56ca0dd3e114540c7481b96ddbe20e89878edde101b9e759e798e0464"
+  },
+  {
+    "path": "lib/lab_report_page.dart",
+    "before": "619ec9b60f808a146c8346ba918c04666a165e51acfe179b1c938c7ffe5699f0",
+    "after": "b31f54c42e1438342a5b637d5d87001da6e965d2ad4bb32fabee81afdc0d3d42"
+  },
+  {
+    "path": "lib/main.dart",
+    "before": "cb9587cfbee3cd5a7d3d0eef2a0cc4bd1488158160ccc8f4654a63bd339d3c99",
+    "after": "aacb76376d2ec15a904e45bc9e73add2d193852703d17df5f9fc081746ecad09"
+  },
+  {
+    "path": "lib/new_lab_order_page.dart",
+    "before": "1e48e88a7aa2ce07f8839866f6d81c99c58fba052994f0f9171522f19735f0c9",
+    "after": "bc0c943ac304d5aa808f380fd83c0ec2052354d029eec1ec8729b6222d597697"
+  },
+  {
+    "path": "lib/new_prescription_page.dart",
+    "before": "f054db95109d106db82785de9ec2acc537257f8e7a63c997918a444d1dec8c34",
+    "after": "e1216db229410d83ae7c0219b94e78da8dbfcfeb506ab21b0369f1f40974dec5"
+  },
+  {
+    "path": "lib/patient/patient_login.dart",
+    "before": "578a9052039b8473f81d1452f97308cd7a81148ce5ccc7e3ff97da1f5006d60d",
+    "after": "a8043945e7d773c13220c7e44abe74dd09dd815aa12c0a76e1060e06af999b61"
+  },
+  {
+    "path": "lib/patient/patient_registration_demo.dart",
+    "before": "a4469e625f4f1174e971557d9711f83972fe065ae2c068200e6db3b9ab4a80bd",
+    "after": "4a0152d746b8093e960c6dac202036c5348da23580b82919066d0bd5d02e6df3"
+  },
+  {
+    "path": "lib/patients_page.dart",
+    "before": "8d830f6507c0b08217dc7990ed93bfaef6b55fdfa78e3f66106d61ffd5f485f7",
+    "after": "cf4051ab9c6d7b354005d495032dda4590aa4c92e75f931708519029bf6d0645"
+  },
+  {
+    "path": "lib/patient_detail_page.dart",
+    "before": "5299fc586cd5cbdcedbfd5ad86868a7bee7f8da3cf9f369220f54d61e92ed71a",
+    "after": "4bc091b15eb88f0eb487ede1b02341ee45691e8c9a976863a1a81f1fd805be4e"
+  },
+  {
+    "path": "lib/patient_portal.dart",
+    "before": null,
+    "after": "84873b2526325277c88041bf0d86417f4041424621294698633382582dc02ffa"
+  },
+  {
+    "path": "lib/patient_records_page.dart",
+    "before": "01515008c54c20a839fe3fb1c773718026b3b3245f3832a4e430a663e9c4e63d",
+    "after": "9e2e7d8202a09e55b0f790df201a3011ca54cd70bd36ef6f70afd8aa21b87aa4"
+  },
+  {
+    "path": "lib/patient_registration_page.dart",
+    "before": "e0cd0da17755b65b3623d1a31e2e674e8f57dd372ecc81ee5de20701d8c3db49",
+    "after": "874fb8dc878cad69509c82ffb4f383be34fe654f3e9b71cfd615649dba40603e"
+  },
+  {
+    "path": "lib/pharmacy_page.dart",
+    "before": "2860ed58d1f7f7e6483e5096a30e56c0322224b0702f95691a2e56a15738b3cf",
+    "after": "d6064519c133e97975fe772ece270449630d9342996f27c0ea3cdad9f7831645"
+  },
+  {
+    "path": "lib/pharmacy_stock_page.dart",
+    "before": "b948ef5b5f46bbfa5469462330ecfe302cb40cd093d93d5c3b877cf0342969f4",
+    "after": "9d7702bc2b93c929b866102232dc0e0d0201c967765738c09e703072e6af2c87"
+  },
+  {
+    "path": "lib/prescriptions_page.dart",
+    "before": "2167c00a7e349fe515a40fb86344efd8db667d3685f18e86b02bf980b2a833eb",
+    "after": "629cc99dbbc1e80b7e7922a390f79e1d14e87aec90a6060f156134122127041c"
+  },
+  {
+    "path": "lib/prescription_detail_page.dart",
+    "before": "a283de3126c032b27e557ebc63413a03382e779d9ad1ddc556def028fc460a90",
+    "after": "5efd8b596dc11c28d6061eca3d50ff54fed5c91036a05a103873d9a10a163289"
+  },
+  {
+    "path": "lib/prescription_draft_page.dart",
+    "before": "e71d6c921821cc3d83b1937c7400df09c403bab9bb174c83a436d9d44caa3cf4",
+    "after": "e557ee655df40a1278a8a6da0bf0e076d8260f497451d1b39f59de07e5861727"
+  },
+  {
+    "path": "lib/prescription_visit_picker.dart",
+    "before": "1d886fe56ab97256aeb963d537735cc9b1d09be91e4e85b6e16923bed67fa4e3",
+    "after": "71cd9f3947dc85cef947b02ff4065cb9c21ebf573911163f3ee877178ff1e478"
+  },
+  {
+    "path": "lib/profile_page.dart",
+    "before": "556479e0a49473086949d5b8cfce8ee158069d7adff9ef0250dd926ebe8f1904",
+    "after": "ed5d3099a2457e91135677c18c0f82a03778df37e362e7d24bb3816b92e21bdf"
+  },
+  {
+    "path": "lib/soft_bottom_bar.dart",
+    "before": "69dcf94a2711d74f9f4672bbca4222520cf230f9dc84957ddf1e0b478fd9a53c",
+    "after": "9a2115c081379a00db2da56867b8c4b3c16d05bed4f05a9105db2906c6059d5b"
+  },
+  {
+    "path": "test/home_dashboard_test.dart",
+    "before": "01fb3ed5e9aa969b428330adc4ea2bbbc2fae89c8565fb16ef93f88d1ff479d7",
+    "after": "3115af93683633257e10250660e8471fa11ff72063884dd0cb1fea791028614c"
+  },
+  {
+    "path": "test/hospital_api_contract_test.dart",
+    "before": null,
+    "after": "c906d9c1862849c59ffff41b69405900e2cb27a27f9b974a85c722a32fec31ac"
+  },
+  {
+    "path": "test/hospital_workspace_test.dart",
+    "before": null,
+    "after": "1131548ecf5381926ae684b92230483c88ed4e1fe9f1bc39e44851cf674ee2c0"
+  },
+  {
+    "path": "test/patient_demo_test.dart",
+    "before": "f6eddb10cb208d100b5cf15e2adda1831426bacc34050e90112cc62bd8a4b6dc",
+    "after": "0dfc01a56949f76ad0158833b586340b83da58d261808144ae38474b3c3661da"
+  },
+  {
+    "path": "test/widget_test.dart",
+    "before": "b93965388d829dd1979e165fb30aeb69a6870e432a240d2548741c0d5d437ec2",
+    "after": "cdce791aec88c0194cf1371eddbf2acb2856739b1c9d65a3eb17d9286dbc599e"
+  },
+  {
+    "path": "docs/API_COVERAGE.csv",
+    "before": null,
+    "after": "a1d75a16fb60787359bef3c21f0973704a8e55ff048b291d73686c0c2f49df9a"
+  },
+  {
+    "path": "docs/API_INTEGRATION.md",
+    "before": null,
+    "after": "64f5b4ba4891c89376e30aa219d7dba7ce7343f9eebd2adf14d871f3385c2f78"
+  },
+  {
+    "path": "docs/screenshots/flutter-doctor-blue.png",
+    "before": null,
+    "after": "23fee3e11df06612c7349155cdadedc24d99283f795bde4de6b2227c2aa3082e"
+  },
+  {
+    "path": "docs/screenshots/flutter-patient-blue.png",
+    "before": null,
+    "after": "cc09fd4cd884d5f9a8fa5ab85d52129d2b70570e3ee517c285fb4bc30525caf2"
+  },
+  {
+    "path": "pubspec.yaml",
+    "before": "020f87002b9b255d2131d6e951217096e891fe4436a234dcd9c7c10cfbccfa9f",
+    "after": "678e1ca4629d86351a6934269ec0abf4d87bb954bf45aa74703b861fe9c986b0"
+  },
+  {
+    "path": "pubspec.lock",
+    "before": "20669c080f4fdcef5e3197d24ebdff585c0eed75d9c4a8a1a4ffb8f67f241006",
+    "after": "030ed4272cec70dd598c4ae9c94771a921729ef598da8006fa39e5c106265872"
+  }
+]

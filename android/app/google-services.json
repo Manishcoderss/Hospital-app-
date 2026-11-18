@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55244348981",
+    "project_id": "hospital-app-47513",
+    "storage_bucket": "hospital-app-47513.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55244348981:android:d2b36824bffe49a6465b7c",
+        "android_client_info": {
+          "package_name": "com.example.mayo_delivery_partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6QHWNf5iuhiWJk-b9Y4j_ivhn6XYltyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

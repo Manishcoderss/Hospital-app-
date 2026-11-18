@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/api/health",
+    "status": 200,
+    "hasSchema": false
+  },
+  {
+    "path": "/api/docs",
+    "status": 404,
+    "hasSchema": false
+  },
+  {
+    "path": "/api/openapi.json",
+    "status": 404,
+    "hasSchema": false
+  },
+  {
+    "path": "/api/v1/openapi.json",
+    "status": 404,
+    "hasSchema": false
+  }
+]
